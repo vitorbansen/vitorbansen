@@ -25,9 +25,10 @@
 
 </p>
 
-<p align="center">
-<img src="pokemon.gif" width="250">
+<p align="start">
+<img src="2.gif" width="250">
 </p>
+
 
 ---
 

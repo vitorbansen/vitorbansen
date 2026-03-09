@@ -25,7 +25,9 @@
 
 </p>
 
-![dragon](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+<p align="center">
+<img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="200">
+</p>
 
 ---
 

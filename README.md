@@ -4,10 +4,6 @@
 💻 Developer | 🤖 RPA Developer | ⚡ Automação
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="180">
-</p>
-
 ---
 
 ### 🚀 Sobre mim

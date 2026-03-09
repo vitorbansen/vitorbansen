@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="200">
+<img src="https://www.pinterest.com/pin/iconic--5066618329315047/" width="200">
 </p>
 
 ---

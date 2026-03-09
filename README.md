@@ -25,8 +25,9 @@
 
 </p>
 
+
 <p align="start">
-<img src="2.gif" width="250">
+<img src="pokemon.gif" width="250">
 </p>
 
 
